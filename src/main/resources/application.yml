@@ -1,0 +1,5 @@
+scraping:
+  url: "https://www.doctolib.fr"
+
+doctolib:
+  patient-eligibility-id: 375
